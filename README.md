@@ -1,6 +1,6 @@
 # Accessibility (A11y) Resources
 
-Accessibility resources I cherish and refer to regularly! You may have dozens (or hundreds?) of others that I'd love to hear about - but these are the particular ones that have stuck for me.
+Accessibility resources I cherish and refer to regularly! This list isn't meant to be comprehensive, as there are far better resources with that goal. You may have dozens (or hundreds?) of others that I'd love to hear about - but these are the particular ones that have stuck for me. 
 
 ## Podcasts
 
