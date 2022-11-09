@@ -28,4 +28,16 @@ Description snippets are from each podcast's website.
 
 > Join Judy Heumann, an internationally recognized bad-ass disability activist in conversation with disabled changemakers and their allies. For all fighting for social justice, these conversations around disability culture, art, entertainment, policy and advocacy are sure to light a rebellious fire under you to fight harder for all people.
 
+## Design/Development Guidance
 
+### [Inclusive Components](https://inclusive-components.design/)
+
+> A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.
+
+Blog, pattern library, and book by [Heydon Pickering](https://twitter.com/heydonworks).
+
+### [Pattern Examples Index](https://www.w3.org/WAI/ARIA/apg/example-index/)
+
+> This page includes a list of all ARIA design pattern examples indexed either by role or by ARIA properties and states.
+
+Extensive library of pattern guidance and examples from the [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)
